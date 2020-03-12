@@ -1,6 +1,6 @@
 <?php
 
-namespace ceepkev77;
+namespace ceepkev77\commands;
 
 use pocketmine\command\Command;
 use ceepkev77\CityBuild;
